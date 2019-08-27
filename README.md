@@ -1,5 +1,7 @@
 ## node-eiscp
 
+[![codebeat badge](https://codebeat.co/badges/1e69509c-a7a8-4ada-b300-cef2c77ab2dd)](https://codebeat.co/projects/github-com-djiwondee-node-eiscp-master)
+
 This is a node module to control and interact with Onkyo receivers over the network.
 
 Basically it is a merge of my previous module which was really simple and https://github.com/miracle2k/onkyo-eiscp translated to javascript, which means a lot more features but some stuff still missing like handling multiple receivers and special commands (ranges are supported though).
